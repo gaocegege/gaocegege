@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Cloud Native AI Infra.
+- 🌱 I’m currently learning Horovod, TensorFlow and Database Systems.
+- 📫 How to reach me: http://gaocegege.com/Blog/about/
+
 <!--
 **gaocegege/gaocegege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
