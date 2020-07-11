@@ -1,6 +1,5 @@
 <p align="center">
 	<a href="http://gaocegege.com/Blog"><img src="https://img.shields.io/badge/blog-200k%20pageviews-ffffff.svg?style=social" alt="Blog"></a>
-	<a href="https://github.com/gaocegege/"><img src="https://img.shields.io/github/followers/gaocegege.svg?label=Follow%20%40gaocegege&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/gaocegege"><img src="https://img.shields.io/twitter/follow/gaocegege.svg?style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/gaocegege/"><img src="https://img.shields.io/badge/LinkedIn-gaocegege-blueviolet.svg?style=social" alt="LinkedIn"></a>
 	<a href="https://www.zhihu.com/people/gaocegege"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-gaocegege-blueviolet.svg?style=social" alt="Zhihu"></a>
