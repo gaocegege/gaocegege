@@ -1,3 +1,13 @@
+## 持续招聘中！
+
+目前我在腾讯云，我们正在招聘云原生 AI 方向的工程师。对 Alluxio，Kubeflow，Kubernetes，Tensorflow，Horovod，BytePS 等项目有兴趣的朋友，请随时发邮件或者微信交流！
+
+我的微信 ID 是
+
+```
+echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
+```
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gaocegege&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" width="400" />
 
 <p align="center">
