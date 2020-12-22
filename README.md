@@ -36,7 +36,7 @@ echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
 	<a href="http://gaocegege.com/resume/cn/"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-%E4%B8%AD%E6%96%87-blue.svg" alt="Resume in Chinese"></a>
 </p>
 
-- 🔭 I’m currently working on [klever](https://github.com/kleveross) and [kubeflow](https://github.com/kubeflow/).
+- 🔭 I’m currently working on [kubeflow](https://github.com/kubeflow/).
 - 🌱 I’m currently learning [krustlet](https://github.com/deislabs/krustlet), [wasmtime](https://github.com/bytecodealliance/wasmtime) and [wasm-to-oci](https://github.com/engineerd/wasm-to-oci)
 - 🤔 I’m looking for help with rust and webassembly.
 - 💬 Ask me about everything about coding.
