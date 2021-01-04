@@ -4,22 +4,6 @@
 
 JD：[云原生 AI 平台后台开发工程师](https://careers.tencent.com/jobdesc.html?postId=1336168644207452160)
 
-> 工作职责
->
-> - 负责基于腾讯云容器产品TKE/EKS/TKEStack，进行云原生AI产品研发。
-> - 深入优化容器场景下的GPU虚拟化、分布式Cache、高性能网络等核心技术。
-> - 对OCR、NLP、游戏AI、基因计算、视觉计算、自动驾驶等具体场景，设计解决方案，打磨垂直领域的产品能力。
-> - 给kubeflow社区贡献代码和组件。
-> 
-> 工作要求
->
-> - 熟练掌握Python，Java，Golang，Scala编程语言之一，且有实际的项目应用经验；
-> - 熟悉至少2种AI框架,如TensorFlow, Pytorch，MXNet，Caffe，Horovod等，了解其核心工作机制；
-> - 熟悉Kubernetes，有一定规模的生产实践经验，能独立分析和解决Kubernetes各个组件的问题，有二次开发经验者优先；
-> - 有基于Kubernetes的AI平台研发经验者优先，对于AI场景下pipeline各个环节有一定的了解；
-> - 善于分析定位Training和Serving任务的性能瓶颈，并制定对应的优化措施；
-> - 有异构计算平台经验者优先，有GPU虚拟化、计算存储分离架构优化实践经验者优先。
-
 我的微信 ID 是
 
 ```
