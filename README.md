@@ -34,6 +34,7 @@ echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
 	<a href="https://www.linkedin.com/in/gaocegege/"><img src="https://img.shields.io/badge/LinkedIn-gaocegege-blueviolet.svg?style=social" alt="LinkedIn"></a>
 	<a href="https://www.zhihu.com/people/gaocegege"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-gaocegege-blueviolet.svg?style=social" alt="Zhihu"></a>
 	<a href="http://gaocegege.com/resume/cn/"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-%E4%B8%AD%E6%96%87-blue.svg" alt="Resume in Chinese"></a>
+	<a href="https://komarev.com/ghpvc/?username=gaocegege"><img src="https://komarev.com/ghpvc/?username=gaocegege" alt="profile"></a>
 </p>
 
 - 🔭 I’m currently working on [kubeflow](https://github.com/kubeflow/).
