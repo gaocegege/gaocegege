@@ -1,4 +1,4 @@
-## 持续招聘中！JD：[云原生 AI 平台后台开发工程师](https://careers.tencent.com/jobdesc.html?postId=1336168644207452160)
+持续招聘中！JD：[云原生 AI 平台后台开发工程师](https://careers.tencent.com/jobdesc.html?postId=1336168644207452160)
 
 我的微信 ID 是
 
