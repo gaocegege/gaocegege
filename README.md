@@ -1,8 +1,4 @@
-## 持续招聘中！
-
-目前我在腾讯云，我们正在招聘云原生 AI 方向的工程师。对 Alluxio，Kubeflow，Kubernetes，Tensorflow，Horovod，BytePS 等项目有兴趣的朋友，请随时发邮件或者微信交流！
-
-JD：[云原生 AI 平台后台开发工程师](https://careers.tencent.com/jobdesc.html?postId=1336168644207452160)
+## 持续招聘中！JD：[云原生 AI 平台后台开发工程师](https://careers.tencent.com/jobdesc.html?postId=1336168644207452160)
 
 我的微信 ID 是
 
