@@ -1,4 +1,4 @@
-微信 ID
+Wechat ID
 
 ```
 echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
