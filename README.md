@@ -19,3 +19,5 @@ echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
 - 🌱 I’m currently learning [krustlet](https://github.com/deislabs/krustlet), [wasmtime](https://github.com/bytecodealliance/wasmtime) and [wasm-to-oci](https://github.com/engineerd/wasm-to-oci)
 - 🤔 I’m looking for help with rust and webassembly.
 - 💬 Ask me about everything about coding.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaocegege)](https://github.com/gaocegege)
