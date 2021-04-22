@@ -20,4 +20,4 @@ echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
 - 🤔 I’m looking for help with rust and webassembly.
 - 💬 Ask me about everything about coding.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaocegege)](https://github.com/gaocegege)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaocegege&row=1&theme=flat)](https://github.com/gaocegege)
