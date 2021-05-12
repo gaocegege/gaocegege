@@ -4,8 +4,6 @@ Wechat ID
 echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gaocegege&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" width="400" />
-
 <p align="center">
 	<a href="http://gaocegege.com/Blog"><img src="https://img.shields.io/badge/blog-200k%20pageviews-ffffff.svg?style=social" alt="Blog"></a>
 	<a href="https://twitter.com/gaocegege"><img src="https://img.shields.io/twitter/follow/gaocegege.svg?style=social" alt="Twitter"></a>
