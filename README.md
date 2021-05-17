@@ -14,7 +14,7 @@ echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
 </p>
 
 - 🔭 I’m currently working on [kubeflow](https://github.com/kubeflow/).
-- 🌱 I’m currently learning [krustlet](https://github.com/deislabs/krustlet), [wasmtime](https://github.com/bytecodealliance/wasmtime) and [wasm-to-oci](https://github.com/engineerd/wasm-to-oci)
+- 🌱 I’m currently learning MySQL, ZeroMQ and MongoDB.
 - 🤔 I’m looking for help with rust and webassembly.
 - 💬 Ask me about everything about coding.
 
