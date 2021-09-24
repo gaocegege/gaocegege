@@ -1,8 +1,11 @@
-Wechat ID
+<p align="center">
+	<a href="https://github.com/gaocegege"><img src="https://raw.githubusercontent.com/gaocegege/gaocegege/master/github-metrics.svg" alt="metrics"></a>
+<!-- 	<a href="https://github.com/gaocegege"><img src="https://github-profile-trophy.vercel.app/?username=gaocegege&row=1&theme=flat" alt="achievements"></a> -->
+</p>
 
-```
-echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
-```
+<p align="center">
+	<p align="center">Wechat ID <code>echo -n 'Z2FvY2VkaWRpCg==' | base64 -d</code></p>
+</p>
 
 <p align="center">
 	<a href="http://gaocegege.com/Blog"><img src="https://img.shields.io/badge/blog-200k%20pageviews-ffffff.svg?style=social" alt="Blog"></a>
@@ -13,11 +16,3 @@ echo -n 'Z2FvY2VkaWRpCg==' | base64 -d
 	<a href="https://komarev.com/ghpvc/?username=gaocegege"><img src="https://komarev.com/ghpvc/?username=gaocegege" alt="profile"></a>
 </p>
 
-- 🔭 I’m currently working on [kubeflow](https://github.com/kubeflow/).
-- 🌱 I’m currently learning MySQL, ZeroMQ and MongoDB.
-- 🤔 I’m looking for help with rust and webassembly.
-- 💬 Ask me about everything about coding.
-
-<p align="center">
-	<a href="https://github.com/gaocegege"><img src="https://github-profile-trophy.vercel.app/?username=gaocegege&row=1&theme=flat" alt="Blog"></a>
-</p>
