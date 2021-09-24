@@ -18,7 +18,7 @@ jobs:
           # Options
           user: gaocegege
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, metadata
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_sections: repositories
