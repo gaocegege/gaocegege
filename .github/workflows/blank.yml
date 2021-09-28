@@ -18,13 +18,11 @@ jobs:
           # Options
           user: gaocegege
           template: classic
-          base: header, activity, metadata
+          base: header
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_notable: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_rss: yes
           plugin_rss_source: http://gaocegege.com/Blog/rss.xml
           plugin_rss_limit: 4
