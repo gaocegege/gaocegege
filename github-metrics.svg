@@ -1519,17 +1519,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">chrome</span>
-                                <div class="bar" style="width: 33.495999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">42%</span>
+                                <div class="bar" style="width: 33.19200000000001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">zsh</span>
-                                <div class="bar" style="width: 25.424000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.912000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vscode</span>
-                                <div class="bar" style="width: 21.088%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 20.896%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">26%</span>
                             </div>
                         </div>
@@ -1539,18 +1539,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">chrome</span>
-                                <div class="bar" style="width: 33.495999999999995%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">42%</span>
+                                <div class="bar" style="width: 33.19200000000001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">macOS</span>
-                                <div class="bar" style="width: 23.992%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.775999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Linux</span>
-                                <div class="bar" style="width: 22.512%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">28%</span>
+                                <div class="bar" style="width: 23.032%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">29%</span>
                             </div>
                         </div>
                     </section>
