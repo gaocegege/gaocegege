@@ -1519,12 +1519,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">zsh</span>
-                                <div class="bar" style="width: 47.712%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 48.232%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">60%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vscode</span>
-                                <div class="bar" style="width: 32.288000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 31.768%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">40%</span>
                             </div>
                         </div>
@@ -1534,12 +1534,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">macOS</span>
-                                <div class="bar" style="width: 41.967999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.296%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Linux</span>
-                                <div class="bar" style="width: 38.032%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 38.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">48%</span>
                             </div>
                         </div>
