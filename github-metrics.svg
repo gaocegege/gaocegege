@@ -1519,12 +1519,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">zsh</span>
-                                <div class="bar" style="width: 41.944%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.816%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">vscode</span>
-                                <div class="bar" style="width: 38.056%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 38.184%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">48%</span>
                             </div>
                         </div>
@@ -1534,12 +1534,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Linux</span>
-                                <div class="bar" style="width: 69.152%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 69.112%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">86%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">macOS</span>
-                                <div class="bar" style="width: 10.847999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                         </div>
