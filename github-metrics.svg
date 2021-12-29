@@ -1682,12 +1682,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">vscode</span>
-                                <div class="bar" style="width: 59.376%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 59.056%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">zsh</span>
-                                <div class="bar" style="width: 20.624000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 20.944%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">26%</span>
                             </div>
                         </div>
@@ -1697,12 +1697,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">macOS</span>
-                                <div class="bar" style="width: 79.47200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.47999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Linux</span>
-                                <div class="bar" style="width: 0.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
