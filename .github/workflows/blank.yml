@@ -20,13 +20,13 @@ jobs:
           template: classic
           base: header
           config_timezone: Asia/Shanghai
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7                                   # Display last week stats
-          plugin_wakatime_sections: time, editors-graphs, os-graphs
-          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
-          plugin_wakatime_url: https://dev.gaocegege.com:3000                 # Wakatime url endpoint
-          plugin_wakatime_user: .user.login                         # User
+#           plugin_wakatime: yes
+#           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+#           plugin_wakatime_days: 7                                   # Display last week stats
+#           plugin_wakatime_sections: time, editors-graphs, os-graphs
+#           plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+#           plugin_wakatime_url: https://dev.gaocegege.com:3000                 # Wakatime url endpoint
+#           plugin_wakatime_user: .user.login                         # User
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_notable: yes
