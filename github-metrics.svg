@@ -198,6 +198,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">小议 agent Harness 设计上的 tradeoff</div>
+                                <div class="date">5 Sept 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Agent sandbox 可能的选型以及 unikernel 的机会</div>
                                 <div class="date">17 Feb 2026</div>
                             </div>
@@ -218,15 +227,6 @@
                             <div class="infos">
                                 <div class="title">2025 年终总结：当时只道是寻常</div>
                                 <div class="date">30 Dec 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">通用 AI Agent 真的有未来么？从 RSS 谈起</div>
-                                <div class="date">5 Dec 2025</div>
                             </div>
                         </div>
                     </section>
